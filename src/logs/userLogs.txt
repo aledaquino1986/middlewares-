@@ -1,0 +1,12 @@
+Se ingresó en la página/services/designSe ingresó en la página/services/design
+Se ingresó en la página/services/design/hello
+Se ingresó en la página/services/design/trello
+Se ingresó en la página[object Object]
+Se ingresó en la página/lea
+Se ingresó en la página/lea/lio
+Se ingresó en la páginahttp://localhost:3000/lea
+Se ingresó en la páginahttp://localhost:3000/admin
+Se ingresó en la página/admin
+Se ingresó en la página/
+Se ingresó en la página/favicon.ico
+Se ingresó en la página/
